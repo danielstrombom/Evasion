@@ -1,7 +1,7 @@
 # Evasion
 Instructions for how to run new simulations of the model and regenerate Figures 2, 3, 4, S1, S2, S3 and Table 1 from data for review purposes of Strömbom & Futterman. An Alignment-Free …. . Submitted to Dynamics. Download all files and then follow instructions below.
 
-REGENERATE FIGURES FROM DATA
+REGENERATE FIGURES 2,3,4,S1,S2,S3 AND TABLE 1
 To regenerate Figure 2 run mkFig2.m, to regenerate Figure 4 and Table 1 run mkFig4.m, and to regenerate Figures 3, S1, S2 and S3 run mkFig3.m. 
 
 RUN NEW SIMULATIONS TO SEE ANIMATION AND FIGURE 2 TYPE PLOT
