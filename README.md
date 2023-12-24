@@ -1,5 +1,5 @@
 # Evasion
-Instructions for how to run new simulations of the model and regenerate Figures 2, 3, 4, S1, S2, S3 and Table 1 from data for review purposes of Strömbom & Futterman. An Alignment-Free …. . Submitted to Dynamics. Download all files and then follow instructions below.
+Instructions for how to run new simulations of the model and regenerate Figures 2, 3, 4, S1, S2, S3 and Table 1 from data for Strömbom, Daniel, and Catherine Futterman. 2023. An Alignment-Free Explanation for Collective Predator Evasion in Moving Animal Groups. Dynamics 3, no. 4: 793-802. https://doi.org/10.3390/dynamics3040043
 
 REGENERATE FIGURES 2, 3, 4, S1, S2, S3 AND TABLE 1
 To regenerate Figure 2 run mkFig2.m, to regenerate Figure 4 and Table 1 run mkFig4.m, and to regenerate Figures 3, S1, S2 and S3 run mkFig3.m. 
